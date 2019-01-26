@@ -1,0 +1,8 @@
+# no IntelliJ files
+.idea
+
+# don't upload macOS folder info
+*.DS_Store
+
+# potential data directory
+data/
